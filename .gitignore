@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Generated model (can be recreated by training)
+car_mileage_model.pkl
+
+# VS Code settings
+.vscode/
+
+# Keep the dataset CSV available for GitHub
+# data/raw/auto-mpg.csv
